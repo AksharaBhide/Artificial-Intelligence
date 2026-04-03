@@ -1,0 +1,32 @@
+Attempt Prompt Quality Output Quality Improvements
+
+1. Basic Vague
+
+Prompt: what is
+adversarial search in
+ai, explain it with
+example.
+It give basic
+information like
+definition, algorithm
+used and application
+with example.
+
+2. Improved Better
+
+Add constraints:
+Prompt: explain it by
+game tree and min
+max algorithm.
+It explain game tree
+and minmax working
+with example.
+
+3. Refined High quality
+
+Final:
+Prompt: also give
+complexity analysis
+of it.
+It give complexity
+analysis of Adversarial
